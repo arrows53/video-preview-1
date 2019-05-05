@@ -17,7 +17,7 @@ const VideoData = {
     font: "Uni Sans", // the name of the font being used, already loaded for you on the page
     text: [ // a list of text that should appear in the video
         {
-            content: "What is your morning routine?", // the first sentence that should appear in the video
+            content: "What is your morning\n routine?", // the first sentence that should appear in the video
             keyword_indexes: [ // the portion of text inside of these indexes should be rendered with the "highlight_color". The rest should be white.
                 8, 
                 12
